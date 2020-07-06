@@ -1,0 +1,6 @@
+name = input('What is your name?')
+print('Hello',name)
+print(name,'this is a square area claculator')
+l = int(input('What is the length of the side?'))
+l = (l*l)
+print('The area is',l)
